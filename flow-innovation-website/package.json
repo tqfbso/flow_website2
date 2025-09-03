@@ -1,0 +1,13 @@
+{
+  "name": "flow-innovation-website",
+  "version": "1.0.0",
+  "description": "Zen-minimalist website for Flow Innovation corporate methodology",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": ["innovation", "corporate", "zen", "methodology", "flow"],
+  "author": "Flow Innovation",
+  "license": "MIT"
+}
